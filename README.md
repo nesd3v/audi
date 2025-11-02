@@ -1,2 +1,4 @@
-# audi
-This is a tested promotional website for Audi RS7 development. It does not contain any advertising or promotions.
+# Audi
+This site is just a test. It doesn't contain any advertising or promotions. 
+---------------------------
+This is one of the projects I've tried myself. You can check it out.
