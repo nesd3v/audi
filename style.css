@@ -121,7 +121,7 @@ body {
     width: 100%;
     height: 100%;
     /* YENİ GÖRSEL LİNKİ: Aşağıdaki 'url' kısmını güncelleyin */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url('images/rs7.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url('rs7.jpg');
     background-size: cover;
     background-position: center;
     z-index: 1;
@@ -309,4 +309,5 @@ body {
         opacity: 1;
         transform: translateY(0);
     }
+
 }
